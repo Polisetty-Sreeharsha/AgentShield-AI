@@ -5,3 +5,7 @@ frontend/.next/
 frontend/out/
 *.log
 .DS_Store
+.env
+backend/.env
+frontend/.env
+node_modules/
